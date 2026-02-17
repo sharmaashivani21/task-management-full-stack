@@ -38,9 +38,9 @@ Frontend:
 
 ## Project Structure
 
-task-management/
-backend/
-frontend/
+task-management-full-stack/
+task-management-backend/
+task-management-frontend/
 
 ---
 
